@@ -1,37 +1,43 @@
 from eunjeon import Mecab
 import os
 
-subject = "mathematics" #just change this.
+def pyeunjeon(subjectIndex):
+    # 0: kor, 1: eng,  2: math, 3: physics, 4:chemical, 5: bio, 6: earth
+    subj = ["korean", "english", "mathematics", "sci_physics", "sci_chemical", "sci_bioscience", "sci_earthscience"]
 
-os.chdir("../data/txt/2.txt_files/"+subject)
-tagger = Mecab()
-hash = {}
+    subject = subj[subjectIndex]
 
-for filename in os.listdir(os.getcwd()):
-    if filename.endswith(".txt"):
-        f = open(filename, "r", encoding='utf-8')
-        data = f.read()
-        words_pos = tagger.pos(data)
+    os.chdir("../data/txt/2.txt_files/"+subject)
+    tagger = Mecab()
+    hash = {}
 
-        for word in words_pos:
-            noun = word[0]
-            category = word[1]
-            if (category == 'NNG'):
-                if noun in hash:
-                    hash[noun] = hash[noun] + 1
-                else:
-                    hash[noun] = 1
+    for filename in os.listdir(os.getcwd()):
+        if filename.endswith(".txt"):
+            f = open(filename, "r", encoding='utf-8')
+            data = f.read()
+            words_pos = tagger.pos(data)
 
-        f.close()
-    else:
-        continue
+            for word in words_pos:
+                noun = word[0]
+                category = word[1]
+                if (category == 'NNG'):
+                    if noun in hash:
+                        hash[noun] = hash[noun] + 1
+                    else:
+                        hash[noun] = 1
 
-os.chdir("../../3.nouns/")
-f = open(subject+'.txt', "a")
-for key, value in hash.items():
-    f.write(key +" "+ str(value)+"\n")
+            f.close()
+        else:
+            continue
 
-f.close()
+    os.chdir("../../3.nouns/")
+    f = open(subject+'.txt', "a")
+    for key, value in hash.items():
+        f.write(key +" "+ str(value)+"\n")
 
-print(hash)
+    f.close()
 
+    return hash
+
+if __name__ == "__main__":
+    pyeunjeon(0)
