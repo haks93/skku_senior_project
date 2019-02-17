@@ -40,7 +40,7 @@ def pyeunjeon(subjectIndex):
     sortedArr = sorted(hash.items(), key=operator.itemgetter(1), reverse=True)
 
     os.chdir("../../3.nouns/")
-    f = open(subject+'.txt', "w")
+    f = open(subject+'.txt', "w", encoding='utf-8')
     # for key, value in hash.items():
     #     f.write(key +" "+ str(value)+"\n")
 
@@ -52,4 +52,4 @@ def pyeunjeon(subjectIndex):
     return hash
 
 if __name__ == "__main__":
-    pyeunjeon(0)
+    pyeunjeon(1)
