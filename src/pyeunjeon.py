@@ -49,7 +49,9 @@ def pyeunjeon(subjectIndex):
 
     f.close()
 
+
     return hash
 
 if __name__ == "__main__":
-    pyeunjeon(1)
+
+    pyeunjeon(7)
