@@ -24,18 +24,20 @@ def pyeunjeon(subject_index):
                 f = open(filename, "r", encoding='utf-8')
                 data = f.read()
                 words_pos = tagger.pos(data)
+                totalnouns: float = 0
 
                 for word in words_pos:
                     noun = word[0]
                     category = word[1]
                     if (category == "NNG"):
+                        totalnouns += 1
                         if noun in nouns_hash:
                             nouns_hash[noun] = nouns_hash[noun] + 1
                         else:
                             nouns_hash[noun] = 1
                 f.close()
 
-                # 여기에서 각 파일별로 txt파일 출력할 수 있게 수정. 경로 설정이 번거로울듯.
+                # 여기에서 각 파일별로 txt파일 쓸 수 있게 수정. 경로 설정이 번거로울듯.
                 sorted_arr = sorted(nouns_hash.items(), key=operator.itemgetter(1), reverse=True)
 
                 os.chdir("../../../3.nouns/" + subject + "/" + subsection)
@@ -44,12 +46,12 @@ def pyeunjeon(subject_index):
                 # for key, value in hash.items():
                 #     f.write(key +" "+ str(value)+"\n")
                 for item in sorted_arr:
-                    f.write(item[0] + " " + str(item[1]) + "\n")
+                    f.write(item[0] + " " + str(item[1]/totalnouns)[:8] + "\n")
                 f.close()
 
                 os.chdir("../../../2.txt_files/" + subject + "/" + subsection)
 
-                # 진짜 이렇게 왔다갔다 해야해..?
+                # 경로 진짜 이렇게 왔다갔다 해야해..?
 
             else:
                 continue
@@ -60,5 +62,5 @@ def pyeunjeon(subject_index):
 
 
 if __name__ == "__main__":
-    pyeunjeon(0)
+    pyeunjeon(3)
 
