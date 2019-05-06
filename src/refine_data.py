@@ -2,6 +2,8 @@ from eunjeon import Mecab
 import os
 import operator
 from random import *
+import csv
+import pandas as pd
 
 
 def save_each_txt_rate(subject_index):
@@ -219,20 +221,50 @@ def save_refined_rate(rank, test_set_rate):
                     f.close()
 
                     # 여기에서 각 파일별로 txt파일 쓸 수 있게 수정. 경로 설정이 번거로울듯.
+                    '''
                     if test_set_rate < random():
                         os.chdir("../../../5.refined_rate/train_set")
                     else:
                         os.chdir("../../../5.refined_rate/test_set")
 
                     f = open(filename, "w", encoding='utf-8')
+                    
                     for item in refined_list:
                         f.write(str(item) + " ")
                     f.write("\n" + subject)
                     f.close()
 
                     os.chdir("../../4.nouns_rate/" + subject + "/" + subsection)
-
+                    '''
                     # 경로 진짜 이렇게 왔다갔다 해야해..?
+                    os.chdir("../../../5.refined_rate")
+
+                    if test_set_rate < random():
+                        f_data = open("train_set_data.txt", "a", encoding='utf-8')
+                        f_label = open("train_set_label.txt", "a", encoding='utf-8')
+                    else:
+                        f_data = open("test_set_data.txt", "a", encoding='utf-8')
+                        f_label = open("test_set_label.txt", "a", encoding='utf-8')
+
+                    for item in refined_list:
+                        f_data.write(str(float(item)*100)[:8] + " ")
+                    f_data.write("\n")
+
+                    if subject == 'english':
+                        f_label.write('1 0 0 0\n')
+                    elif subject == 'korean':
+                        f_label.write('0 1 0 0\n')
+                    elif subject == 'mathematics':
+                        f_label.write('0 0 1 0\n')
+                    elif subject == 'science':
+                        f_label.write('0 0 0 1\n')
+                    else:
+                        print("labeling error")
+
+                    f_data.close()
+                    f_label.close()
+
+                    os.chdir("../4.nouns_rate/" + subject + "/" + subsection)
 
                 else:
                     continue
