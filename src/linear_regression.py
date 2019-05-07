@@ -82,7 +82,11 @@ def linear_regression():
 
     correct_prediction = tf.equal(tf.argmax(softmax_y, 1), tf.argmax(Y, 1))
     accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
-    print("정확도: ", sess.run(accuracy, feed_dict={X: test_data, Y: test_label}))
+    print("종합 정확도: ", sess.run(accuracy, feed_dict={X: test_data, Y: test_label}))
+    print("영어 정확도: ", sess.run(accuracy, feed_dict={X: test_data[:151, :], Y: test_label[:151, :]}))
+    print("국어 정확도: ", sess.run(accuracy, feed_dict={X: test_data[151:304, :], Y: test_label[151:304, :]}))
+    print("수학 정확도: ", sess.run(accuracy, feed_dict={X: test_data[304:610, :], Y: test_label[304:610, :]}))
+    print("과학 정확도: ", sess.run(accuracy, feed_dict={X: test_data[610:, :], Y: test_label[610:, :]}))
 
 
 if __name__ == "__main__":
