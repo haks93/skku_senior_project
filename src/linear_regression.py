@@ -53,9 +53,9 @@ def linear_regression(learning_rate, batch_size, rank):
     print(train_label[:5])
     '''
 
-    epoch = int(train_data.shape[0]/batch_size)
+    batch_num = int(train_data.shape[0]/batch_size)
 
-    for i in range(epoch):
+    for i in range(batch_num):
         batch_xs = train_data[i:i+batch_size, :]
         batch_ys = train_label[i:i+batch_size, :]
 
