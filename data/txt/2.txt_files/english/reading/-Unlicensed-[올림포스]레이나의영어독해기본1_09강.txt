@@ -1,0 +1,672 @@
+﻿안녕하세요? 여러분, 반갑습니다. 올림포스 고교영어독해의 기본 1편의 저는 여러분의 English Mentor 레이나입니다. 
+
+고교영어독해, 발음이 참 어렵네요. 우리 오늘 아홉 번째 시간입니다. 제목 함께 볼게요. 문맥을 통한 글의 의미 유추하기예요. 
+
+이따 보면, 나 주제문이에요, 하고 이렇게 짠, 하고 나타나는 게 있는데, 그러지 않는 경우는 우리가 여러 가지 정황들을 통해서 
+
+유추라는 것을 해야 될 수밖에 없어요. 불가피하죠? inevitably, 지난 시간 배웠던 표현 좀 인용해 봅니다. 어떻게 풀면 되겠느냐, 
+
+함축적인, 뭔가 좀 이렇게 상위 개념의 단어가 핵심어인 경우가 많았고요, 그리고 핵심어의 그 함축적인, 사전적 의미 그대로보다 
+
+문맥을 통해서 미루어 짐작을 하게 되면 이제 주제가 딱 드러나는, 아! 이거다, 하는 감이 오게 되는 분야가 바로 이 유형이 되겠습니다. 
+
+자, 그러면 첫 번째 문제 함께 풀면서 오늘 수업 바로 시작을 해보도록 하겠습니다. Reading 1이에요. 전 이거 읽으면서, 
+
+이야! 진짜 이렇게 황당한 사건이 실제로 있었구나, 라는 생각을 했거든요. 같이 볼게요, 얼마나 황당한지. 여러분, 읽어 오신 분들은 
+
+같이 웃었을 거 같은데, 볼게요. Among the many discoveries NASA made when it began sending people into space was 
+
+that the astronauts' pens didn't work well in zero gravity라고 합니다. among 하면서, '선생님, 도치구문!' 막 배운 거 일부러 문법을 
+
+막 최대한 활용하려고 막 꿈틀꿈틀 지금 하고 계시죠? 그러니까 독해가 힘든 거예요. 순서대로 그냥 가세요. 독해, 뭐, 아니, 독해란다, 도치, 
+
+이런 거 생각하지 말고. among이, 부사가 문두로 가면 도치가 일어나므로, ~가운데는 있다, ~가, 막 이렇게. 그런데 주어를 다시 뒤에서 앞으로 
+
+막, 뒤에 있는 거 앞으로 갖고 오고 할 시간에 빨리 읽고 다음 문장을 읽으시라는 그 말입니다. 주어를 뒤로 이만큼 가서 막 다 찾고 있어요. 
+
+그거 왜 그래요? 우리말로 우리가 번역 시험 봅니까? 아니잖아요. 그냥 순차로 갈게요. 자, Among many discoveries, 많은 발견들 중에. 
+
+어떤 발견? NASA가 해낸 발견 중에. 언제 발견했는데요? when it began sending people into space, 사람들을 우주로 보내기 시작했을 때 
+
+NASA가 한 많은 발견들 중에는 있었다. 뭐가 있었는데요? that 이하가 있었다. the astronaut's pens, 우주 비행사들의, 우주인들의 펜들이 
+
+didn't work well, 잘 작동이 안 됐어요. in zero gravity, 무중력 상태에서요. The ink, 잉크가 wouldn't flow properly, 
+
+적당하게 이렇게 흘러내리지를 않더라는 거예요. 잉크가 펜 볼에서 이렇게 흘러내리면서, 이 볼이 rolling을 하면 써지는 게 볼펜의 원리잖아요. 
+
+그런데 중력이 없다 보니까 아래로 흐르지를 않는 거예요. 그래서 '여기서 왜 wouldn't가 들어갔나요?'라고 하는 친구분들 되게 많은데, 
+
+이 would나 will 같은 건 의지 같은 건데, 원래, 본래 사물이 갖고 있어야 하는 성질을 굳이 잡고 안 하려고 고집 피우는 거예요. 
+
+'아니, 문이 왜 이렇게 안 열려?' This door wouldn't open, won't open, 이렇게 쓰는 거 있죠. 그게, '왜 이렇게 안 열려?' 
+
+고집부리면서 잘 안 되는 거 있죠. 그런 게 이제 would의 어감인데, 이것도. '아니, 잉크가 흘러야지, 도통 흐르지를 않네?' 이런 느낌입니다. 
+
+그래서 잘 흘러내리려 하지를 않아, 그렇죠? To overcome the problem, 이 문제를 극복하기 위해서, NASA gathered several teams 
+
+of mechanical and chemical engineers, and spent millions of dollars to develop what became known as the 'space pen'. 
+
+그래서 NASA가 여러 팀을 모았어요. 뭐로 구성된? 공학자, 그리고 화학 공학자들로 구성이 된 그런 여러 팀을 모아다가 수백만 달러를 썼죠. 
+
+뭐하려고? to develop, 개발하기 위해서. what became known as the 'space pen', space pen으로 알려지게 된 그 물건을 만드느라고요. 
+
+그다음에 The pen was very effective, 아주 효과가 좋았어요. It worked in zero gravity, 무중력에서도 잘 작동되고, it worked on earth, 
+
+지구상에서는 물론 잘되고, and it even worked under water, 물속에서도 잘 써지더란 말입니다. 이것은 그야말로 기술적 경이로움이었다. 
+
+기술 발전의 한 경이였다, 이렇게. At that time, 그 당시에, the Soviets, 네, 소비에트 사람들도 solved the problem as well, 
+
+마찬가지로 그 문제를 풀었는데, 그러나 much more cheaply and more effectively, 이게 아주 중요한 부분이죠. 더 저렴하게, 
+
+그리고 더 효과적으로 그 문제를 마찬가지로 풀었대요. 두 집단의 문제 해결 방식이 다르다는 거, 여러분, 지금 감지했죠? 
+
+한쪽은 온통 똑똑한 사람 모아다가 온통 돈을 써가지고 뭔가 만들었어요. 그런데 이쪽은 어떻게 만들었다고요? They supplied their astronauts 
+
+with pencils, 뭐, 펜이 안 써진다고? 자, 연필. 너무 재미있지 않아요? 소비에트 사람들은 그들의 우주인들에게 '야, 펜이 안 돼? 연필 있잖아.' 
+
+하고 연필을 제공해준 겁니다. The NASA scientists approached the problem based only on high technology, 
+
+그래서 이 NASA의 과학자들은 그 문제에 접근을 했는데, 어디에 기초해서만? 어디에 기반해서만? 고기술, 아주 그런 고난도의 기술에 입각해서만 
+
+한 겁니다. Despite the fact that many of the engineers working on the problem probably used pencils themselves, 
+
+they failed to see that there was an inexpensive, low-tech solution readily available 그랬네요. 어떤 사실에도 불구하고? 
+
+'야, 야, 이런 거에도 있잖아, 이렇다?' 이렇게 얘기를 던지잖아요. 그런데 despite the fact that 할 때 이 that을요, 
+
+꾸며준다고 생각하는 친구들이 상당히 많은데, 자, that을 빼 봐요. despite the fact, 그 사실에도 불구하고. 그 사실이 뭔데? 
+
+그 사실은, 즉, 하고 똑같은 거를 풀어다가 내용으로 똑같이 받아주는 거예요. 꾸며주는 관계가 아니라 동등한 관계예요. 그 사실인즉 
+
+이 that 이하랑 똑같다, 이런 성립이 되는 논리일 때 우리가 이것을 동격의 that절이라고 하잖아요. 그럼 어떻게 해석해야 돼요? 
+
+그 문제의 해결을 하고 있는, 그 문제를 처리하려고 애쓰고 있는, 연구를 하는 수많은 그 엔지니어들도 아마 연필을 썼었겠죠, 그 스스로도 직접. 
+
+그렇죠? 그런데 그런 사실에도 불구하고, 그들은 that 이하를 아는 데 실패했다, 알지 못했다, 깨닫지 못했다. 뭐를요? 
+
+안 비싸면서도 저기술의 solution, high-tech 아니에요. low-tech solution이 이미 이용 가능한 게 있다는 사실을 알지 못했다는 거죠. 연필. 
+
+내용 좀 재미있죠? 문제 볼게요. 시사하는 바가 그럼 뭘까요? 뭔가 NASA니까 우주? 개발이지, 이런 고정관념을 깨야 돼요. 
+
+꼭 개발을 해야 되는 건 아니에요. 있는 거 갖고 쓸 수 있어요. 그러면? 그렇지요, 고정관념을 탈피하면 문제 해결이 더욱 용이할 수 있다는 거죠. 
+
+그러니까 이게 뭐가 문제냐면, '선생님, 왜 고정관념이에요? 왜 고정관념이냐고요.' space team을 만들어서 우주선을 연구했어요. 
+
+그래서 우주인들을 보냈어요. 펜이 안 된대요. 그럼 우주 전용 펜을 개발해요. 이거는 당연하게 우리가 고정관념을 갖고 있어요. 
+
+문제는 기술을 개발해서 해결한다, 기술 개발해서 해결하는 거죠. 그런데 그 고정관념을 the Soviets는 깬 거예요. '없어? 이거로 써.' 
+
+있는 거 준 거예요. 그게 고정관념의 탈피라고 보고 있는 거죠. 됐죠? 그다음에 밑줄 친 an inexpensive, low-tech solution이 
+
+구체적으로 의미하는 바가 뭐였어요? 펜이 안 되면 연필 써라, 그렇죠? 전 너무 재미있게 읽었던 첫 번째 문제였습니다. 문장 잠깐만 좀 
+
+해석을 할 텐데, 아까 도치에 대한 얘기를 했었어요. 그런데 혹시나 이 수업 듣는 친구들 중에서 '선생님, 도치가 뭔지 저 잘 개념이 아직 안 섰어요.' 
+
+하는 친구들 있을 텐데, 이 문장이 있잖아요, 이거. 원래는 어떤 문장이냐고 제가 이제 보여 드릴 텐데, 읽어보면서 얼마나 어색한지 
+
+한번 제대로 느껴보실래요? 자, 주어. That the astronauts' pens didn't work well in zero gravity was among the many discoveries 
+
+NASA made when it began sending people into space. 무슨 말인지를 모르겠어. 그런데 해석해도 좀 그래. that절의 이하가, 
+
+이렇게 되는 건데, 우주비행사들의 펜이, 즉 우주인들의 펜이 무중력에서는 잘 작동되지 않았다는 것은 ~가운데에 있었다, ~중에 있었다, 
+
+이렇게 되는 거죠. 원래 원문은 이래요. 그런데 우리가 그것을, ~가운데에는 있었으니, 바로 이것이다, 이런 식으로 주인공을 마지막에 놓고 
+
+효과적으로 의미를 전달해주고 있는 도치구문인 거예요. 그러면 아까 했던 것처럼 한 번 더 해볼게요. 
+
+Among the many discoveries NASA made, NASA가 해낸 많은 발견들 중에는. 뭐했을 때? when it began sending people into space, 
+
+우주인들을, 사람들을 우주로 보내기 시작했을 때 NASA가 해낸 많은 발명들 가운데는 있었으니, 뭐가 있었다? 바로, 자, 우주인들의 펜이 
+
+무중력에서는 잘 작동이 안 된다는 것이었다, 이러면서 여기에 집중이 딱 들어가잖아요. 그러니까 도치구문이 여러분 어려우라고 만드는 게 아니라 
+
+이렇게 효과적으로 글의 의미를 강조할 거를 강조하기 위해서 만들어낸 것이 바로 이 도치구문이라고 보시면 될 거 같아요. 
+
+그다음에 우리 시험에 나오는 부분 좀 말씀드릴 텐데요, 여러분, 책에다가 표시하셔도 돼요. 그리고 자료실 자료를 미리 뽑아 가지고 
+
+공부하는 친구들은 거기 다 돼 있어요. 어디까지냐면, To overcome the problem, 그래서 문제를 해결하기 위해서 NASA는 이렇게 했다, 
+
+있잖아요. NASA 과학자들은 이렇게 했는데 그다음에 누구 나와야 돼요? 소비에트 사람들은 이렇게 해결을 했다, 그러면서 두 집단 간의 
+
+문제 해결법의 차이가 나오는 그 부분 있죠? 이거 문장 순서 (A), (B), (C)로 나눠가지고 섞어서 원위치시키기가 나오거든요. 
+
+그러니까 이 부분 꺾쇠로 딱 표시해놓고, 순서, 누가 먼저 나오고, 누가 뭐 개발했고, 그다음에 무슨 문장 나오는지 좀 기억하시면 좋을 거 같아요. 
+
+그리고 아주 많이 여러분이 풀어봤을 텐데, 혹시나 하는 염려에 갖고 왔어요. Although로 할 겁니까, Despite을 할 겁니까? 
+
+that절이 있어서 '어? 선생님, 이거 기니까, 절이니까 although 아니에요?' 하는 친구들, 이 that은 동격의 that절이고, the fact한테만 
+
+딱 걸리는 거예요. 그러면 despite가 갖고 있는 건 the fact라는 명사구 덩어리 하나밖에 없기 때문에 전치사로서 despite이 필요하지, 
+
+우리는 although가 들어올 수 없다는 거 기억해 주시고요, 그리고 밑에 밑줄 친 거는 서술형으로 풀었던 부분이니까 넘어가도록 합니다. 
+
+자, 서술형 예상이 되는 부분이, 이거 말고 다른 부분에서는 서술형을 또 내봤거든요. 위에 보면, 우리 글에서, 그 문제를 해결하기 위해서 
+
+NASA는 과학자들을 불러 모았다, 할 때 그 the problem 있죠. 그 부분 가지고 서술형 낼 수 있을 거 같아요. 두 가지로 낼 수 있는데, 
+
+첫 번째로는 the problem의 의미가 우리말로 무엇이 될까, 쓰라는 거. 뭡니까? 무중력 상태에서는 펜 사용이 어렵다는 거. 
+
+그거 극복하기 위한 NASA의 해결방안과 the Soviets의 해결방안을 각각 쓰시오, 도 서술형 나올 수 있죠. 그럼 NASA는 뭐예요? 
+
+비싼 비용 들이고 인원을 추가해서 새로운 걸 개발해냈다, 그렇죠? 그런데 소비에트는 있던 걸, 연필 쥐여 줬다는 거예요, 그렇죠? 
+
+이거 두 개를 쓰시면 서술형 대비가 되겠습니다. 자, 첫 번째 내용 우리 함께 해봤고요, 내용 한번 다시 들으면서 정리하도록 하겠습니다.
+
+Unit 9, Reading 1. Among the many discoveries NASA made when it began sending people into space was that 
+
+the astronauts' pens didn't work well in zero gravity. The ink wouldn't flow properly. To overcome the problem, 
+
+NASA gathered several teams of mechanical and chemical engineers, and spent millions of dollars to develop 
+
+what became known as the "space pen." The pen was very effective. It worked in zero gravity, it worked on earth, 
+
+and it even worked under water - a technological marvel. At that time the Soviets solved the problem as well, 
+
+but much more cheaply and more effectively. They supplied their astronauts with pencils. The NASA scientists approached 
+
+the problem based only on high technology. Despite the fact that many of the engineers working on the problem 
+
+probably used pencils themselves, they failed to see that there was an inexpensive, low-tech solution readily available.
+
+네, 두 번째 내용으로 가볼게요. 어떤 상황을 주고 있습니다. Imagine, 그러면요, 어떤 일화나 예시를 통해서 주제를 끌어내는 그런 구조겠죠? 
+
+Imagine you are asleep, 당신이 잠이 들었다고 한번 상상을 해보고, 또, 뭐 어떤 내용을요? and you are in charge of, 
+
+당신이 뭐를 지금 책임을 도맡아 하고 있습니까? your baby sleeping in the next room, 옆방에서 자고 있는 아기는 당신이 담당하고 있다, 
+
+한번 생각해 봅시다, 가정해 봅시다, 상상해 봅시다. Cars honk outside, 자동차 경적이 밖에 울리고, a dog barks nearby, 
+
+근처에서는 강아지가 짖고, the guy next door, 옆집 남자는 comes home late, 집에 늦게 들어와서는 and slams his car door, 
+
+자기 자가용 문을 쾅 하고 닫아버려요. and the grandfather clock downstairs, grandfather, 갑자기 할아버지 시계가 아니라요, 
+
+집에 가면, 옛날 집들 가면, 엄청나게 큰 벽에 걸어놓은 괘종시계 있죠? 가끔씩 이렇게 뻐꾸기 나오고 하는. 그런데 오래되면 뻐꾸기가 
+
+이미 나와 있어서 멈춰 있죠. 안 들어가죠. 뻐꾸기가 막 이러는 시계 있잖아요, 엄청 큰. 할아버지 괘종시계, 그거 얘기하는 겁니다. 
+
+그게 rings every half an hour, 30분마다 울어댑니다. Yet, 하지만 none of that rouses you from sleep, 그들 중 어느 것도 당신을 
+
+잠으로부터 깨워놓지 않습니다. 깨워놓지 못하는 겁니다. 그러니까 이런 거 들어도 여러분 안 깨요, 잠을. But, 그러나 when that baby 
+
+in the next room starts to cry, 그 옆방에 있는 아기가 울기 시작할 때, you're up and out of that bed in a flash, 
+
+네, 당신은 일어나서 침대에서 나옵니다. in a flash 그러면요, 순식간에. Your unconscious brain, 당신의 무의식의 뇌가 
+
+heard all those other sounds perfectly, 모든 그런 다른 소리들을 완벽히 다 들었을 거예요, 그렇죠? 들었어요. 귀가 있으니 뭐 
+
+소리가 뇌에 전달되는 거는 당연한 거잖아요, 모든 소리가. but, 그러나 only the sound of the baby, 오직 유일하게 아기의 소리만이 
+
+managed to, 그러면 겨우 가까스로 ~해내다, 라는 뜻이죠. 가까스로 get through, 어디를 통과해서 들어올 수 있는 거예요? 
+
+to your conscious awareness, 네, 의식적인 인식으로 뚫고 들어올 수가 있습니다, 겨우. 그래서 당신을 깨워낼 수가 있는 거죠. 
+
+This human ability, 이러한 인간의 능력. 뭐요? 자기가 들어야 되는 소리를 선별해가지고 듣고 반응하는 거요, 응? 
+
+그것이 is the most intelligent and sophisticated alarm system in the universe 그랬네요. 이런 인간의 능력은 가장 똑똑하면서도 
+
+정교한 경보 체계예요. 우주에서 가장 그렇다고 얘기를 하네요. 그러면 This human ability가 의미하는 바는 뭘까요? 특정 소리에만 
+
+의식이 반응하는 거야. 나머지, 무의식은 100퍼센트 들리지만, 의식이 반응하는 것은 본인이 들어야 하는 것만 들으니까 정답은 5번이 되겠죠. 
+
+그다음에 서답형이 있는데요, 당신을 잠에서 깨우는 소리, 여러 가지 소리 중에서 뭐만요? 그렇죠, 아기가 우는 것. 그래서 그걸 적어주시면 
+
+되겠습니다. 문장 어려운 거 별로 없죠? 그래서 바로 변형 special로 넘어갈게요. Step 3입니다. 우리, 핵심어들, 뭔가 추상적인 언어들이 
+
+주제어인 경우가 상당히 많다, 라고 제가 강의 초에, 앞부분에 말씀을 드렸는데요, 뭔가 어려운 단어 있죠, 대구 되는? conscious, unconscious. 
+
+그러니까 이런 거를 구분해내는 것이 사람의 뭐다? the human ability, 이 세 가지가 핵심어기 때문에 이거 가지고 빈칸 문제가 나올 거 같아요. 
+
+이거 해당되는 부분입니다. 모든 소리를 다 듣는다면 빈칸에 뭐가 들어가야 돼요? unconscious가 들어가야 되겠죠. 그런데 오직 들어야 하는, 
+
+듣고 싶은 소리만 듣는다, 라고 하는 것은 당신의 conscious awareness다, 그렇죠? 의식적인 인식이죠. 가장 정교하면서 똑똑한 그 경보 체계는 
+
+과연 무엇입니까? 그렇죠, 그걸 구분해내는 인간의 능력이 돼야겠죠. This human ability가 빈칸의 답이 될 수가 있겠습니다. 
+
+네, 자, 주제는 뭐였어요? 주제는요, Human conscious awareness system, 그런데 그것이 어떤 일을 하기에요? 
+
+can respond to a selective sound라고 저는 얘기를 했거든요. 그러니까 인간의 의식적인 인식 시스템은요, 특정 본인이 선별한 소리에만 
+
+반응을 할 수가 있다, 라는 거죠. 그래서 sophisticated 하고 intelligent 하다는 설명이 가능하니까 주제문 좀 길지만, 영어로 기억해두시면 
+
+시험 나올 때 잘 대비될 거 같아요. 그리고 빈칸으로 우리가 방금 본 것처럼 나올 수 있고요, 영문으로 주제 찾기 문제 충분히 낼 수 있다고 
+
+저는 생각을 하고요, 이걸 요지로 해서 요지 완성으로도 문제 낼 수 있으니까 자료실에 올려놓은 그 영문 주제, 다시 한 번만 더 보시면 좋겠습니다. 
+
+본 문제 한 번 더 듣고요, 다음 문제로 넘어가도록 할게요. 
+
+Reading 2. Imagine you are asleep, and you are in charge of your baby sleeping in the next room. Cars honk outside, 
+
+a dog barks nearby, the guy next door comes home late and slams his car door, and the grandfather clock downstairs rings 
+
+every half an hour. Yet none of that rouses you from sleep. But when that baby in the next room starts to cry, 
+
+you're up and out of that bed in a flash. Your unconscious brain heard all those other sounds perfectly, 
+
+but only the sound of the baby managed to get through to your conscious awareness and wake you up. 
+
+This human ability is the most intelligent and sophisticated alarm system in the universe.
+
+네, 자, Theme Reading 첫 번째로 갑니다. 주제인데요, 여러분한테 해당되는 내용이기도 하고, 요즘 저에게도 해당되는 내용이기도 합니다. 
+
+multitasking이라고 하는 건데, 다중 작업이라는 좀 어려운 말이 있지만, 멀티태스킹이라고 우리 평소에 그런 말 쓰지 않나요? 
+
+이것저것 한꺼번에 하는 거. 그래서 그렇게 놓고, 주제 삼고 가보도록 할게요. 자, Although teenagers are, on average, spending 
+
+more and more time on the Internet every year, there is no evidence that they have simultaneously cut back on the hours 
+
+they spend with traditional media like TV, music, or print. 비록 십 대들이요, 평균적으로 are spending more and more time, 
+
+점점 더 많은 시간을 거기다 쓰고 있대요. 어디다가요? on, 하고 나오겠죠? the Internet every year, 매년 인터넷에 더욱더 많은 시간을 
+
+쓰고 있죠, 평균적으로. 비록 그렇다 해도, 잡고 밑으로 갈게요. there is no evidence, that 이하라는 증거는 없어요. 어떤 증거? 
+
+that they have simultaneously, 그러니까 동시간대니까 동시에, 그렇죠? simultaneously, 동시에, 그와 동시에. 그러면 생각을 해보세요. 
+
+시간은 정해져 있어요. 인터넷을 하는 시간이 늘어나요. 그러면 그만큼 TV 보거나 라디오 듣거나 그러는 시간은 줍니까? 
+
+그런 증거는 없다는 얘기예요. 그래서 증거인즉 해서 that절이기 때문에 여기 또 동격이 나오겠죠. 어디에다가 쓰는 시간을 동시에 줄이고 있다는 
+
+그런 증거가 없나요? they spend with traditional media, 전통적 매체, 우리가 옛날에 주로 뭐 가지고 놀았나요? TV, 아니면 음악, 
+
+아니면 인쇄물 같은 거. 프린트된 거, 그렇죠? 종이 같은 거. 뭐, 읽을거리, 읽을거리. 이런 것들로 써왔던 그런 시간이, 썼던 시간이 동시에, 
+
+그와 동시에 줄어들어 왔다, 라는 그런 증거는 또 없다는 거예요. 그럼 도대체 어떤 시간을 줄이는 거지? 일단 더 읽어볼게요. 
+
+By multitasking 그랬어요. 그러니까 다중 작업을 함으로써. 동시에 한단 얘기죠. they simply, 그들은 단지, consume 소비하고 있습니다. 
+
+more media content in the same period of time, 네, 같은 기간의 시간에 있어서, 시간 동안에 더 많은 미디어, 그러니까 매체의 
+
+어떤 그런 content, 매체의 콘텐츠를 단순히 그냥 더 사용을, 더 소비를 하고 있을 뿐입니다, 라는 거죠. One study showed that, 
+
+자, 갑자기 study가 나오면, 여러분, 생각하셔야죠. 앞에 주제문이 나왔으니까 뒷받침하기 위해서 supporting detail 나오는구나. 
+
+객관화하기 위해서 연구를 예로 들고 있습니다. One study showed that nearly one-third of young people, 거의 3분의 1 정도 수준의 
+
+젊은이들이 either talk on the phone, 그러면 뭐, 뭐, 뭐 중에 하는 거예요, 그렇죠? either A, 아니면 B, 아니면 C, 이렇게 가는 거죠, 그렇죠? 
+
+그럼 either talk on the phone, use instant messaging, watch TV, listen to music, or surf the Web, 뭐하는 동안에? 
+
+while they're doing homework - and the trend is growing. 
+
+네, 3분의 1 정도에 가까운 젊은이들이 전화기로 말을 하거나 아니면 instant messaging 있죠. 
+
+실시간으로 이렇게 대화 주고받는 메신저 사용을 하거나 TV 보거나 음악 듣거나 아니면 웹서핑을 합니다. 뭐하는 동안? 숙제하는 동안에. 
+
+그리고 그 경향은 증가하고 있습니다. Multitasking tends to be bad for learning (though there are a few exceptions). 
+
+네, 다중 작업은요, 배움에 있어서, 학습에 있어서는 해로운 그런 경향이 있죠. 비록 몇몇 예외는 있습니다. According to psychologists, 
+
+심리학자들에 따르면요, 이제 또 전문가의 말까지 인용을 하네요. 자, teens learn better if they pay full attention to 
+
+what they want to remember. 네, 십 대들은요, 더 잘 배울 수 있는데, 어떤 조건이 충족될 때? if they pay full attention to, 
+
+전적으로 집중을 할 때. 어디에다가요? 그들이 기억하고 싶은 것에다가 완전히 집중을 할 때에만 잘, 더 잘 배울 수 있다, 라고 하는데, 
+
+그런데 당연한 걸 굳이 전문가의 말을 인용할까요? 자, Recently, 최근에 the adverse effect of multitasking on teens' ability to learn 
+
+new facts and concepts has been supported by many brain studies 그랬네요. adverse effect 그러면 부작용이란 뜻이죠? 
+
+뭐의 부작용이요? 부작용 나왔으면 게임 끝난 거 아닙니까? 멀티태스킹이 learning에 좋다고요, 나쁘다고요? 나쁘다고요. 
+
+대놓고 이렇게까지 얘기하는데 반대로 뒤집는 사람은 없겠죠? 십 대들의 능력에 있어서. 그런데 뭐할 능력? to learn new facts and concepts, 
+
+새로운 사실과 개념들을 배울 십 대들의 능력에다가 미치는. 보통 effect가 나오고 뒤에 on 어디 하면, ~에다가 미치는 영향이라고 
+
+보통 해석을 하니까 십 대들이 그럼 배우는 능력에다가 멀티태스킹이 미치는 그런 부작용이라고 해석을 하면 되겠죠. 이것이 has been supported, 
+
+뭡니까? 뒷받침되어져 왔다. 누구에 의해서? 많은 뇌 연구들에 의해서 입증이 되어져 왔다고 합니다. 그럼요, 마지막 문장이 어떻게 보면 
+
+가장 간단할까요? 그러니까 부작용, 뭐의 부작용? 다중 작업의 부작용. 어디다가 부작용을 주는데요? 십 대들의 능력에다가요. 뭐할 능력이요? 
+
+새로운 사실과 개념을 학습하는 능력이요. 그렇지, 이 부작용에 대해서가, 그렇죠, 뒷받침되어져 왔대요, 많은 뇌 연구에 의해서. 
+
+내용 끝났습니다. 자, 그러면요, 이거 답 좀 골라볼게요. 주제가 무엇이냐. 핵심어가 뭔데요? multitasking이에요. 이것이 좋다고요, 나쁘다고요? 
+
+그렇죠, 부작용이 있다, 라는 얘기를 했기 때문에, 부정적이다, 라고 하면 되겠네요. 그렇죠, 학습에 미치는 이 매체를 이용한 다중 작업의 
+
+부정적 영향들, 이렇게 하면 완벽하다, 그렇지? 그러니까 나 같으면 이거를 한국어로 좀 바꿔갖고 똑같이 주제문으로 한국어로 출제할 거 같은데, 
+
+여러분의 생각은 어떠신지? 그럼요, 그러니까 여러분 뭐만 갖고 있으면 돼요? multitasking이 learning에 있어서 negative effect다, 
+
+이것만 딱 갖고 있으면 그거로 답을 고르는 건 어렵지가 않을 거 같아요. 시험에 나오는 부분으로 바로 갑니다. Step 3, 변형 special 
+
+for 내신만점이에요. 역시나 여러분, 핵심어가 도드라지고 있기 때문에 그거 빈칸으로 낼 거 같아요. 단순히 동시, 같은 기간에, 
+
+같은 길이의 시간당 소비하는 콘텐츠 양이 더 많아진 것뿐이라는 거. 동시에 하니까 그런 거죠? multitasking이 여기 빈칸에 들어가면 되겠어요. 
+
+그리고 숙제하는 동안 이거, 이거, 다 하는 게 아니라 얘네, 얘네, 얘네, 얘네 혹은 얘네 중의 하나를 숙제하면서 같이 하더라는 얘기를 
+
+하고 싶은 거니까 or 들어가서, and가 아니라 or이 정답이었던 거 기억나시죠? Okay, 그다음에 또, 자, Multitasking tends to, 
+
+어떤 경향이 있다? 몇 가지 예외는 있지만, learning에는 좀 나쁜 영향이 있다, 라는 얘기를 하는 거잖아요. 그래가지고 be bad for learning, 
+
+이것도 핵심 표현이니까 빈칸 나올 수 있습니다. 그리고 또 하나, 이게 bad라고 하면서 밑에, 최근에 이 multitasking의 어떤 점? 
+
+부작용이라서, 이거, 네, 부작용이 또 빈칸으로 나오기도 하겠고요. 자, 딱 떨어지게 나오네요. 그다음에 주제 및 제목으로 낼 수 있을 거 같은데? 
+
+아까 우리 제목 문제 풀었던 거 있죠. 이거를 여러분이 기억하고 계세요. 답이니까 안 나오겠지, 하던 친구들은 선지를 아예 안 보더라, 
+
+내신 공부할 때? 선지 가지고, 선지만 따로 서술형, 주관식, 막 이런 거, 순서 배열 내버리면, 여러분, 그러면 껙, 하고 당하는 거예요. 
+
+그러니까 이 문장 중요하니까 핵심이니까 기억을 하시면 좋겠어요. 자, 요지는 뭐였나요? multitasking이, 네, 종종 often has a negative influence 
+
+혹은 effect라고 할 수 있겠죠. 어디에다가? learning, 배움에 있어서. 누구한테? for young people, 혹은 본문에 또 teenager라는 말이 있으니까 
+
+teenagers까지 해서 요지 완성 문제도 대비할 수가 있겠습니다. 자, 출제가 예상되는 파트를 좀 짚어 드리겠습니다. 일단 주제 나올 수 있고요, 
+
+그다음에 제목 나올 수 있고요, 또, 요지 나올 수 있고, 우리가 아까 본 것처럼 빈칸도 한 세 군데 정도는 준비할 수 있는 그런 문제 같습니다. 
+
+자, 우리 문제 다시 듣고 다음 문항으로 넘어가겠습니다.
+
+Theme Reading 1. Although teenagers are, on average, spending more and more time on the Internet every year, 
+
+there is no evidence that they have simultaneously cut back on the hours they spend with traditional media like TV, music, 
+
+or print. By multitasking, they simply consume more media content in the same period of time. One study showed 
+
+that nearly one-third of young people either talk on the phone, use instant messaging, watch TV, listen to music, 
+
+or surf the Web while they're doing homework - and the trend is growing. Multitasking tends to be bad for learning
+
+(though there are a few exceptions). According to psychologists, teens learn better if they pay full attention to 
+
+what they want to remember. Recently, the adverse effect of multitasking on teens' ability to learn new facts and concepts 
+
+has been supported by many brain studies.
+
+네, 자, 두 번째 내용, 도서관에 대한 이야기인데요, 오늘날 도서관의 특징에 대한 다음 글의 내용과 일치하지 않는 것 골라보겠습니다. 
+
+해석 바로 갈게요, 내용 일치니까. Today, 오늘날 많은 도서관들이요, many libraries are being transformed, 변모하고 있습니다, 
+
+변해가고 있습니다. Some are devoting less and less room to books, and more and more to computers and printers 그랬네요. 
+
+어떤 도서관들은요, devoting, 할애하고 있습니다. 점점 더 적은 공간을 책에다가 할애하고, 그럼 반대로, and more and more room to, 
+
+그런데 room 있으니까 생략하겠죠. to computers and printers, 더 많은 공간을 컴퓨터와 프린터에다 할애를 합니다, 그렇죠? 
+
+In the process, 그 과정에서, many libraries are more like giant bookstores with every passing year 그랬네요. 
+
+매해 지나가면서, 많은 도서관들이 점점 뭐와 비슷해지고 있습니까? 뭐처럼 되고 있습니까? like giant bookstores, 대형서점처럼 
+
+더 비슷해지고 있습니다. Digital technologies allow them to know more about what their patrons are reading, 
+
+just as giant bookstores use them to track their customers' preferences 그랬네요. 디지털 기술들은요, 그들로 하여금 
+
+알게끔 해주었습니다. 허락해주다, 니까. 그런 대형 도서관들로 하여금 알게 해주었어요. 뭐를요? 더 많은 것들을. 뭐에 대한 더 많은 것들을? 
+
+무엇을? 그들의 patrons, 그러면 이용객이죠? 그러니까 도서관 이용객들이 읽고 있는지. just as, 누가 하는 것과 똑같이? 
+
+just as giant bookstores use them to track their customers' preferences, 여기서 them은 뭐겠어요? digital technologies겠죠. 
+
+그러니까 대형서점들이 그 디지털 기술들을 그들 고객들의 선호도를 추적하기 위해 사용하는 것과 똑같이, just as, 그렇죠? 똑같이. 
+
+그다음에 The need to spend on digital works and services, 디지털 작업이나 디지털 서비스에다가 써야 하는 그런 필요 금액이겠죠, 
+
+need라고 하는 것은. 요구 금액, 필요되어지는 금액, 뭐 예산 같은 것들이 is reducing, 줄이고 있다. 뭐를 줄이는데요? 상대적으로, 
+
+그렇죠, the amount of money available to spend on books, 책에다가 쓸 수 있게끔 해주는 그런 돈의 양은 줄이고 있어요. 
+
+그러니까 예산은 한정돼 있는데 계속 디지털 예산에 쓰는 예산을 더, 더, 더 늘리다 보니까 상대적으로 도서관이 마땅히 진짜 책을 사야 할 
+
+그 예산은 준다는 거죠. Libraries are teaming up with one another, 서로서로 팀을 이룹니다. 뭐하기 위해서? to acquire books, 
+
+책을 확보하기 위해서요. 누구를 위한 책? for just-in-time delivery to patrons, 그러면 도서관 이용객들에게 바로 원하는 시간에 
+
+전해줄 수 있도록 하는, 그렇죠? 있도록 하기 위해서 책을 확보하기 위해 서로서로 뭉치고 있어요. 팀을 이루고 있어요. 협력을 하고 있어요. 
+
+rather than, 뭐라기보다는? 뒤에 거보다 앞에 거 나올 때 rather than 쓰죠, 그렇죠? 그래서 뭐라기보다는? maintaining, 유지하기보다는. 
+
+뭐? the old system of each library having its own copy of each book on the shelf, 네, 예전 방식. 어떤 예전 방식? 각각의 도서관이, 
+
+그 도서관이 고유로 갖고 있던, 본래 갖고 있던 각각의 책을 그냥 책 선반에다가 꽂아놓고 있는 그런 상태를 유지하기보다는 
+
+서로서로 팀을 이뤄가지고 고객들이 원하는 그 책을 갖다가 그때그때 바로 확보해다가 줄 수 있게끔 하는 것들을 더 하고 있다는 거죠. 
+
+네, 자, 그다음에 답은 어떻게 됩니까? 밑에 문장 하나만 더 볼게요. We are witnessing, 우리는 목격하고 있는 것이다. 그런데 뭘 목격하느냐면, 
+
+이게 좀 재미있는 표현인데요, the Amazonification of libraries, 이 Amazonification은요, giant bookstore잖아요. Amazon, 그렇죠? 
+
+대형 온라인 서점 그 Amazon을 갖다가 재미있게 표현을 한 건데, 도서관의 대형서점화, Amazon화 되는 것을 우리는 목격하고 있는 것입니다, 
+
+이렇게 얘기를 하고 있습니다. 목격하고 있습니다. 자, 이제 진짜 문제 풀어볼게요. 내용 일치하지 않는 거는 뭐예요? 책을 구비하는 데 
+
+점점 더 많은 예산? 아니요, 디지털 작업이나 서비스를 구축하는 데 돈을 더 많이 쓰다 보니까 오히려 이것을 못 한다고 해서 
+
+정답은 4번이 되는 거죠. 네, 이어서 우리 문장 하나만 좀 보고 갈 텐데, 여러분이 그냥 놓치고 갔을 법한 부분이 하나 있어서 짚어 드릴게요. 
+
+이 문장 속에서, 자, of 이하의 이 부분을 우린 좀 중점적으로 볼 거예요. 아까 제가 해석은 했었잖아요. 도서관들이 서로서로 팀을 이루어가지고 
+
+그들의 고객들에게 원하는 때에 딱 그 책을 줄 수 있도록 그렇게 책을 확보하는 데 서로 힘을 합치고 있다고 했잖아요. 뭐하기보다는? 
+
+예전 방식을 고수하기보다는. 앞을 더 하더라, 이런 얘길 하는 거잖아요. 그럼 예전 방식에 있어서 어땠는지 볼게요. 예전 방식은 뭐였느냐면, 
+
+예전 방식의, 어떤 예전 방식의? 각각의 도서관을, 하면 좀 이상한 거야. 여기서 봐요. of가 전치사예요. 그러면 전치사의 목적어가 있어야 되는데, 
+
+각각의 도서관을, 하고 해석하지 않잖아요. old system은 뭘 하는 것이 old system인데요? 도서관이 원래 소장하고 있는 책을 갖다가 
+
+그 서점에 그 책장에다가 꽂아놓고 있는 거, 꽂아놓고 있는 것, 갖고 있는 것. 어머! 전치사의 목적어는 having입니다. 전치사의 목적어는 having. 
+
+그럼 앞에 있는 이 each library는 뭐하는 애예요? 누가 본래 소장하고 있던 책을 선반에 꽂아놓고 있습니까? 누가? 각각의 도서관이요. 
+
+각각의 도서관이 본래 소장하고 있던 책을 선반에다가 갖고 있는 그런 예전 방식. 동명사의 의미상의 주어구나, 이렇게 됩니다. 
+
+이게 대명사로 오게 되면 소유격, 목적격을 쓰기 때문에, 여러분, 한두 번 해본 거 아니잖아요. 딱 보고, 아! 이거, 의미상의 주어네, 할 텐데, 
+
+일반명사니까 격 표현이 없어서 이게 소유격인지 목적격인지 알 수가 없어요. 그럴 때는 뭐로 찾아라? 해석으로 찾아라. 예전 방식이 뭔데요? 
+
+원래 소장하고 있는 책을 갖다 갖고 있는 것. 어? 얘는 뭐예요? 각각의 도서관이 소장하고 있다, 해서 주어처럼 해석되는구나. 
+
+그런데 진짜 주어는 아니고, 동명사의 의미상의 주어구나, 해석하니까 주어처럼 해석이 되는구나, 라고 이해를 하시면 되겠습니다. 
+
+의미상의 주어라고 하는 것이 그렇게 여러분, 어려운 단어가 아니에요. 분명히 얘가 주어 자리가 아닌데, 얘 주어 아닌데, 
+
+희한하게 해석하니까 주어 같네, 이게 바로 해석상의 주어, 의미상의 주어라는 거니까 해석할 때 주어처럼 해석해주면 되지, 진짜 주어는 아니다, 
+
+라고 생각하고 계세요. 자, 시험에는 뭐가 나왔습니까? 보겠습니다. 네, 지칭 추론이 예상이 돼요. 도서관, 도서관, 그들이, 막 이러니까 
+
+어떤 도서관들에서, 이 가리키는 바가 library이냐, 아니면 기술이냐. 아까 우리가 웬만큼 나왔던 they, some, 이런 것들은 다 도서관들이었어요. 
+
+그런데 한 군데, 뒤에 가면 기술을 받는 게 나오거든요. 그래서 그 부분, 일단은 좀 지나갈 텐데, 이거부터 먼저 하고 앞으로 갈게요. 
+
+다 도서관들이에요. 그런데 얘만, 대형서점들이 그것들을 사용하는 것처럼, 이렇게 하는 건데, 그것들이 뭔데요? 그렇죠, 디지털 기술을 
+
+이용하는 거죠. 그래서 여기 them은 도서관들이 아니라, 그렇죠, digital technologies니까 이거 따로 표시해두시면 되겠습니다. 
+
+다시 앞으로 좀 갈게요. 아이, 빈칸 봐버렸네. 자, 많은 도서관들이, 주제문이야. 뭐하고 있는데요? 모양을, 시스템을 변화시키고 있어요, 
+
+대형서점처럼. 빈칸 나오면? 그렇죠, transformed라고 하면 돼요. be being p.p. 해가지고, 수동태면서 진행형으로 지금 쓰고 있으니까 
+
+수동 느낌 나게 써주시면 되겠습니다. Okay, 자, 출제 예상되는 부분 어디 있을까요? 지칭 추론, 제가 방금 말씀드린 것처럼, 
+
+기술을 의미하는 them만 좀 조심하시면 되겠고요, 그리고 어휘 같은 거, 해석상에, 어디에 돈을 더 쓰고, 어디에 그만큼 돈이 감축이 되고, 
+
+이런 부분들 반대말로 낼 수 있으니까 해석 유의하시면서 좀 문장을 봐주시면 좋을 거 같아요. 자, 내용 다시 한 번 들어보면서 
+
+다음 문제로 넘어가도록 하겠습니다.
+
+Theme Reading 2. Today many libraries are being transformed. Some are devoting less and less room to books, 
+
+and more and more to computers and printers. In the process, many libraries are becoming more like giant bookstores 
+
+with every passing year. Digital technologies allow them to know more about what their patrons are reading, 
+
+just as giant bookstores use them to track their customers' preferences. The need to spend on digital works 
+
+and services is reducing the amount of money available to spend on books. Libraries are teaming up with one another 
+
+to acquire books for just-in-time delivery to patrons, rather than maintaining the old system of each library having 
+
+its own copy of each book on the shelf. We are witnessing the Amazonification of libraries.
+
+네, 자, 마지막 문제입니다. 우리, 요지에 대한 이야기를 좀 해보도록 할 텐데요, 이거 조금 해석을 해야 됩니다. 할애를 좀 많이 해야 되는 
+
+지문이 나왔는데, 같이 보도록 할게요. 사실, 현대의 그 교육이요, 교수 방법에 있어서 선생님이 판서를 하고 이렇게 하기도 하지만 
+
+전자 칠판을 이용하기도 합니다. 네, 그런데 저도 강의하는 입장에서 칠판이 편하고요, 제가 실제로 학생들한테 물어본 적 있어요. 
+
+'선생님이 이번에 EBS에서 이러 이런 강의 할 건데, 야, 전칠, 일명 전칠, 전자칠판으로 할까, 아니면 칠판으로 할까?' 그럼 학생들은 대부분이 
+
+'선생님, 칠판이 보기에 편해요.' '선생님, 칠판이 선생님이 말씀하시는 게 더 잘 들어와요.' 그러니까 뭔가 고전적 방법을 
+
+여전히 선호를 하는 거예요. 이 디지털 시대에 우리가 왜 아직까지 분필을 들고 있습니까? 그게 전달력이 훨씬 더 강하다는 거거든요. 
+
+그래서 교육에 있어서의 신기술, 신매체를 이용하는 것이 꼭 좋은 것인가에 대한 이야기가 이 본문의 주제거든요. 같이 보도록 하겠습니다. 네. 
+
+자, Using technologies, 일단 요지죠. 자, Using technologies in the classroom has been encouraged for a long time, 
+
+교실 수업에서, 그렇죠? 수업 환경에서, 수업 시간에 기술들을 사용하는 것이 has been, 되어져 왔다, 장려되어져 왔다, 독려되어져 왔다, 
+
+권장되어져 왔다. 오랫동안이요. In every field, 모든 분야에서, however, 그러나 합니다. 뒤집죠? 어떻게요? there are aspects 
+
+of the curriculum that should be taught without screens or Net connections라고 하네요. 네, 교육과정의 어떤 측면들이 있는데, 
+
+어떤 측면들? that 하고 이제 설명해 줍니다. 어떤 측면? that should be taught, 교수되어져야 한다, 가르쳐져야 한다. without screens, 
+
+네, 그런 컴퓨터 화면 없이. 아니면 뭐 없이? Net connections, 인터넷 연결 없이 가르쳐져야 되는 부분을 가진 그런 교육과정 속의 
+
+여러 측면들이 모든 분야에 있다, 이 얘기를 하는 겁니다. 그럼 이 사람이 말하고 싶은 건요, without screens or Net connections 
+
+돼야 된다는 부분도 분명히 있다는 걸 잊지 마세요, 라는 거네요. for instance 나오죠. 이거 빈칸 비워놓고 for instance만 
+
+주구장창창 외웠을까 봐 for example로 바꿔가지고 낼 수 있겠네요? 자, 내용 갈게요. In the field of law, for instance, 법률 분야에서 보면요, 
+
+예를 들면, the computer has no place in a classroom where a wonderful teacher is firing questions at a first-year student, 
+
+quizzing him about a legal case 그랬네요. 그러니까 뭐 법률 분야에서는 컴퓨터가 has no place in a classroom, 교실에서 자리가 없다. 
+
+설 자리가 없어요. 어떤 교실이기에? 어떤 수업 상황이기에요? 그 교실에서는, 그 수업에는 a wonderful teacher, 이제 훌륭한 선생님이, 
+
+자, 우리가 fire questions at이라는 표현을 많이 쓰거든요. fire questions는 막 쉴 새 없이 질문을 던지다, 라는 뜻. 누구한테? at 이하한테. 
+
+그래서 쉴 새 없이 질문을 던지고 계시는. 누구한테요? 1학년짜리 학생한테요. 뭐하면서? 쪽지시험 같은 거, 퀴즈를 막 내면서. 
+
+뭐에 대한 퀴즈를? 그에게 about a legal case, 법률적 사건들, 법률 사건들에 대해서 그에게 이렇게 질문을 막 이렇게 던지시면서. 
+
+그러니까 뭐 퀴즈를 막 내시면서 1학년짜리 학생한테 질문을 쉴 새 없이 던지고 계시는 선생님이 있는 그런 환경에서는 컴퓨터는 
+
+설 자리가 없습니다, 이런 얘기 하는 거죠? Many surveys indicate that students have a preference for a moderate use of technology 
+
+in the classroom, 네, 많은 연구들이 말해주는 바입니다. indicate, 지적하다, 라는 거니까 지적하는 바가, 알려주는 바가, 학생들이요, 
+
+have a preference, 어떤 선호를 한대요. 어떤 선호도를 갖고 있다, 즉 선호를 합니다. 뭐를 더 좋아하느냐고요? for a moderate, 
+
+적절한 사용을 선호한다. 이 적절한 게, 좀 사용해라, 가 아니라 너무 사용하진 않았으면 좋겠다, 의 어감인 거 알고 계시죠? 
+
+technology in the classroom, 교실에서 기술에 대한 사용은 좀 적절히 하는 정도가 좋습니다, 하는 그런 선호도를 학생들이 갖고 있는 거를 
+
+어떤 연구에서도 우리가 밝혀주고 있습니다, 보여주고 있습니다. The way that students learn to think critically, much of the time, 
+
+is through old-fashioned dialogue. 그렇죠, the way, 그러면요, 어떤 방법? 뒤에 나오겠죠? 학생들이 생각하는 것을 배우는 방식. 
+
+그런데 어떻게 생각하는 방식? critically, 비판적 사고를 배우는 방식이 되겠죠. much of the time, 그러면 대부분의 경우에서는, 
+
+대다수는, 그렇죠? 대부분의 경우에서는, is through, 무엇을 통해서예요? 구식의 대화를 통해서다. 그러니까 옛날 방식의 이 대화를 통해서, 
+
+전통적 대화를 통해서 대부분은 우리가 비판적 사고력을 배우게 되는 거죠. 사고하는 법을 배우게 되는 거죠. 그다음에 Through the dialogue, 
+
+그 대화를 통해서 people exchange views and look in depth at a topic, questioning and exploring issues in a face-to-face manner 
+
+그랬네요. 여기 걸리는 게 어느 부분인지 상당히 중요한데, 일단 해석부터 하면, 그 대화를 통해서 사람들은 의견을 교환하고, 
+
+어떤 주제에 있어서 깊이 있게 들여다봅니다. 뭘 하면서요? 그 문제에 대해서 질문을 하고 탐구를 하면서. 어떤 방식으로? 서로 얼굴을 맞댄 
+
+방식으로요. 그러니까 직접 보고, 컴퓨터가 아니라 선생님과 학생들, 학생과 학생이 스스로 서로를 대면하면서 질문도 던져보고 
+
+대화도 해보면서 배움을 한다는 거죠. Our teaching, 우리의 이 교수 행위, in such cases, 그런 경우들에 있어서 우리의 교수 행위, 
+
+즉 가르침의 행위는 should not necessarily be mediated by new technologies 그랬네요. 이거 해석 잘해야 되죠? 
+
+necessarily는 반드시라는 건데, 반드시 be p.p. 되어질 필요는 없다, 이렇게 해석하면 되겠죠, 그렇죠? 반드시 ~해야 되는 것은 아니에요. 
+
+뭐해져야 되는 거 아니에요? 전달되어져야 되는 거 아니에요. 뭐에 의해서? 새 기술, 신기술에 의해서. 그럼 다시 해석하면, 
+
+우리의 가르치는 행위는 이런 경우들에서는 반드시 새로운 기술을 통해서 전달되어져야 하는 것은 아닙니다. 그럼 뭐가 좋아요? 
+
+old-fashioned dialogue가 더 좋다, 라는 이야기를 하는 거죠. 좋습니다. 요지는 우리가 웬만하면 이제 나오겠네요? 뭡니까? 
+
+정보 통신 기술 활용 능력, 말 자체가 어렵습니다. 자, 원하는 거는 옛날 방식, 대화법, 이런 거 무시하면 안 된다, 이런 얘기거든요. 
+
+자, 새로운 기술을 활용한 교육만이 언제나 좋은 것은 아니다, 옛날 방식도 필요하다, 정답은 5번 되겠고요, 그다음에 서답형 한번 볼까요? 
+
+자, 윗글에 따르면요, 이 전통적 방법의 대화법에서는 어떤 방식으로 교육이 이루어지고 있습니까? 우리말로 쓰라고 하는데, 좀 길었어요. 
+
+아까 우리 face-to-face 하고, questioning 하고, exploring 하고, 막 그런 얘기 나왔잖아요. 그 부분을 한국어로 바꾸게 되면 어떻게 됩니까? 
+
+얼굴을 맞댄 채 질문을 하고 문제를 탐색하면서 서로의 견해를 교환하고 한 가지 주제에 관해 깊이 있게 살펴본다. 이야! 서답형인데 
+
+진짜 진정 서술이네요, 그렇죠? 좀 깁니다. 정답, 비슷하게 했으면 되신 거 같고요, 우리 이거 Step 2하고 3를 같이 보도록 할게요. 
+
+구문 다시 잡으면서 내신 나올 법한 부분들까지 짚어 보도록 하겠습니다. 자, 내용상 어휘를 고르는 문제 나올 수 있어요. 뒤집기 전이거든요, 
+
+이 앞문장은요. 오랫동안 수업할 때 기술 사용하는 게, 그렇죠? 신기술을 사용하는 것이 장려되어져 왔다, 그러나 그렇지 않고 전통의 방식이 
+
+더 효과적인 데도 있다, 라고 해야, 뒤집을 거리가 있어야 뒤집죠. 여기 however 뒤집을 건데. 그럼 위에는요? 기술 좋다고 했다, 
+
+이거 해줘야 됩니다. 그럼 위에는 지금 encouraged인데, however 하면서, 그래, 신기술이 아닌 옛날 방식도 중요하다는 얘기가 나오는 거죠. 
+
+여기 주제문의 위치가 있는 거죠. 그러면서 법, 법률 분야를 지금 예로 드니까 for example이나 for instance가 들어가는 부분이었고요, 그렇죠? 
+
+그다음에 이거, The way that students learn to think critically, much of the time, 대부분 학생들이 비판적 사고를 하는 것을 
+
+배우는 방식은 무엇을 통해서예요? 옛날 방식의 대화를 통해서예요. 그래서 through old-fashioned dialogue, 이거 빈칸에 나올 확률이 
+
+지금 상당히 높습니다. 그러면 또 내용에 입각해서 어휘 고르기 문제 나올 수 있겠죠? 무엇을 통해서요? 기술을 통해서요, 아니면 대화를 통해서요?
+
+ 뒤를 읽어보면, 사람들은 견해를 교환합니다, 의견을 교환합니다. 뭘? 기술 통해서? 아니요, 전통적 방식의 대화를 통해서요. 
+
+그러면 정답은 dialogue가 되겠죠. 그리고요, 이 부분, 혹시나 좀 해석이 안 될 거 같은데 제가 좀 잡아 드릴게요. in depth는요, 면밀하게, 
+
+깊이 있게, 라는 거로 꾸며주는 말이니까 이렇게 솎아내고 나면 look at 보이죠? look at a topic, 한 주제에 대해서 깊이 있게 들여다봅니다, 
+
+이렇게 해석하면 되지. 그럼 다시 정리하면, 사람들이 견해를, 의견을 교환하고, 어떤 한 문제에 대해서 깊이 있게 들여다봅니다. 
+
+뭐하고 뭐하면서? questioning and exploring issues, 그 해당 사안들을 갖다가 문제를 던져보고, 그리고 탐구를 하면서요. 어떤 방식으로요? 
+
+in a face-to-face manner, 얼굴을 직접 서로 맞보는, 맞대어보는 그런 방식, 그렇죠? Our teaching, in such cases, 그런 경우들에 있어 
+
+우리의 교수 행위, 가르침의 행위는요, should not be necessarily be mediated by, 여기서 by 이하에 의해서 
+
+반드시 전달되어져야 하는 것은 should not, 아닙니다, 라고 얘기를 하겠죠. 그럼 빈칸에 들어갈 거는 뭐예요? 꼭 기술을 이용해서 할 필요는 
+
+없습니다. 왜? should not 하고 뒤집어야지만 뜻이 뭐로 바뀌어요? dialogue, old-fashioned 좋다고 나오니까 old-fashioned를 좋다고 하려면 
+
+뭐를 뒤집어야 돼요? 기술을 뒤집어야 되겠죠. 그래서 new technologies, 이 부분도 분명 빈칸으로 나올 수 있는 부분이에요. 
+
+선생님들의 시각에서 제가 하나 알려 드리면요, tip을 드리면, 이렇게 부정어가 있는 부분에 빈칸을 파두면 너무 좋아요. 왜냐하면, 주제를 
+
+학생들이 파악을 분명히 했는데도 불구하고 그 문장의 not을 슬쩍 까먹어버리면, 정반대의 답을 선지로 내면요, 진짜 한 열 명 중의 한두 명은 
+
+이 not을 못 보고 이 new technologies를 old-fashioned dialogue로 그냥 고르는 학생들이 분명히 있거든요. 그러니까 부정문이 있는 자리에서 
+
+빈칸이 정말 잘 나오는 거, 여러분, 좀 기억하시면 좋겠어요. 자, 내용을 좀 정리해보도록 하겠습니다. 우리, 주제는요, 뭐였어요? 
+
+It is not always desirable to teach by new technologies, 새로운 기술들을 사용해서 가르치는 것이 항상 바람직한 것은 아니다, 
+
+자, desirable이라는 형용사 이용하시면 영어로 주제문 우리가 찾을 수 있겠고요, 그리고 잘 나오는 분야가 어디였었습니까? 
+
+아까 빈칸, 이거 분명 나올 거 같아, 라는 부분 느끼셨죠? 네, 그리고 연결어 조심해주시고, 문장 넣기, 노란색으로 표시해 드렸던 부분이 
+
+유력합니다. 또, 주제, 어휘까지. 그래서 반대말 중에 고르는 거로 출제될 가능성이 높은 지문이 되겠습니다. 
+
+다시 한 번 들으면서 우리 오늘 수업 마무리하도록 할게요. 
+
+Theme Reading 3. Using technologies in the classroom has been encouraged for a long time. In every field, however, 
+
+there are aspects of the curriculum that should be taught without screens or Net connections. In the field of law, 
+
+for instance, the computer has no place in a classroom where a wonderful teacher is firing questions at a first-year student, 
+
+quizzing him about a legal case. Many surveys indicate that students have a preference for a moderate use of technology 
+
+in the classroom. The way that students learn to think critically, much of the time, is through old-fashioned dialogue. 
+
+Through the dialogue, people exchange views and look in depth at a topic, questioning and exploring issues 
+
+in a face-to-face manner. Our teaching, in such cases, should not necessarily be mediated by new technologies.
+
+네, 여러분, 수고 많으셨습니다. 다음 시간 소개하겠습니다. 열 번째 시간입니다. 사실인지 아니면 주관적 의견인지 구분하면서 주제를 찾고 
+
+문제를 해결하는 방식 다음 시간에 배우도록 할 테니까 기대 많이 해주시고요, 자료실 꼭 챙기는 거 아시죠? 다음 시간에 뵙겠습니다. 
+
+Have a nice day. Bye-bye.
+
