@@ -2,8 +2,6 @@ from eunjeon import Mecab
 import os
 import operator
 from random import *
-import csv
-import pandas as pd
 
 
 def save_each_txt_rate(subject_index):
@@ -182,7 +180,7 @@ def save_top_count(rank):
     fw.close()
 
 
-def save_refined_rate(rank, test_set_rate):
+def save_refined_rate(rank, test_set_rate, multiple_unit):
     # 각 파일에서 total_top_count.txt 에 있는 단어를 찾고, 그 등장 빈도를 한 줄에 저장. 둘째 줄에는 과목을 저장.
     # test_set_rate에 맞춰서 랜덤으로 train_set, test_set에 나눠서 저장.
     total_rank_hash = {}
@@ -190,6 +188,7 @@ def save_refined_rate(rank, test_set_rate):
     os.chdir("../data/txt/3.nouns_count/")
     with open("total_top_count.txt", 'r', encoding='utf-8') as f:
         lines = f.readlines()
+        lines = lines[:rank]
         for line in lines:
             item = line.split(" ")
             total_rank_hash[item[0]] = int(item[1])
@@ -247,7 +246,7 @@ def save_refined_rate(rank, test_set_rate):
                         f_label = open("test_set_label.txt", "a", encoding='utf-8')
 
                     for item in refined_list:
-                        f_data.write(str(float(item)*100)[:8] + " ")
+                        f_data.write(str(float(item)*multiple_unit)[:8] + " ")
                     f_data.write("\n")
 
                     if subject == 'english':
@@ -277,6 +276,7 @@ def save_refined_rate(rank, test_set_rate):
 if __name__ == "__main__":
     rank = 1000
     test_set_rate = 0.2
+    multiple_unit = 100
 
-    save_refined_rate(rank, test_set_rate)
+    save_refined_rate(rank, test_set_rate, multiple_unit)
 
