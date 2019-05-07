@@ -46,5 +46,7 @@ def load_data():
     test_label = np.array(label_lines, np.int)
     test_label = test_label.reshape(-1, 4)
 
+    os.chdir("../../../src")
+
     return train_data, train_label, test_data, test_label
 

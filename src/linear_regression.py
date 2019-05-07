@@ -41,14 +41,12 @@ def linear_regression(learning_rate, batch_size, rank):
     print("Mathematics:", idx_3 - idx_2)
     print("Science:    ", train_label.shape[0] - idx_3, "\n")
     
-
     print(train_label.shape[0])
     print(idx_1)
     print(idx_2 - idx_1)
     print(idx_3 - idx_2)
     print(train_label.shape[0] - idx_3, "\n")
 
-    
     print(train_data.shape)
     print(train_data[:5])
     print(train_label.shape)
@@ -60,11 +58,6 @@ def linear_regression(learning_rate, batch_size, rank):
     for i in range(epoch):
         batch_xs = train_data[i:i+batch_size, :]
         batch_ys = train_label[i:i+batch_size, :]
-
-        '''
-        print(batch_xs.shape)
-        print(batch_ys.shape)
-        '''
 
         sess.run(train_step, feed_dict={X: batch_xs, Y: batch_ys})
 
@@ -108,8 +101,6 @@ def linear_regression(learning_rate, batch_size, rank):
     print(sess.run(accuracy, feed_dict={X: test_data[idx_1:idx_2, :], Y: test_label[idx_1:idx_2, :]}))
     print(sess.run(accuracy, feed_dict={X: test_data[idx_2:idx_3, :], Y: test_label[idx_2:idx_3, :]}))
     print(sess.run(accuracy, feed_dict={X: test_data[idx_3:, :], Y: test_label[idx_3:, :]}))
-
-    os.chdir("../../../src")
 
 
 if __name__ == "__main__":
