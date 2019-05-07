@@ -246,7 +246,7 @@ def save_refined_rate(rank, test_set_rate, multiple_unit):
                         f_label = open("test_set_label.txt", "a", encoding='utf-8')
 
                     for item in refined_list:
-                        f_data.write(str(float(item)*multiple_unit)[:8] + " ")
+                        f_data.write(str(float(item))[:8] + " ")
                     f_data.write("\n")
 
                     if subject == 'english':
