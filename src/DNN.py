@@ -1,54 +1,51 @@
 import tensorflow as tf
-import os
-import numpy as np
 import matplotlib.pyplot as plt
+import data2numpy
+import numpy as np
+
+
+def cal_predict(label, predict):
+    korean_acc = 0
+    math_acc = 0
+    eng_acc = 0
+    sci_acc = 0
+    korean_num = 0
+    math_num = 0
+    eng_num = 0
+    sci_num = 0
+
+    for i in range(predict.shape[0]):
+        if label[i][0] == 1:
+            korean_num += 1
+            if predict[i].argmax() == 0:
+                korean_acc += 1
+
+        elif label[i][1] == 1:
+            math_num += 1
+            if predict[i].argmax() == 1:
+                math_acc += 1
+
+        elif label[i][2] == 1:
+            eng_num += 1
+            if predict[i].argmax() == 2:
+                eng_acc += 1
+
+        elif label[i][3] == 1:
+            sci_num += 1
+            if predict[i].argmax() == 3:
+                sci_acc += 1
+
+    print("국어 정확도: ", korean_acc, "/", korean_num, "=", korean_acc / korean_num)
+    print("수학 정확도: ", math_acc, "/", math_num, "=", math_acc / math_num)
+    print("영어 정확도: ", eng_acc, "/", eng_num, "=",eng_acc / eng_num)
+    print("과학 정확도: ", sci_acc, "/", sci_num, "=",sci_acc / sci_num)
+    print("-------------------------------")
 
 
 def DNN():
-    learning_rate = 0.01
     batch_size = 10
 
-    X = tf.placeholder(tf.float32, [None, 1000])
-    Y = tf.placeholder(tf.float32, [None, 4])
-
-    W = tf.Variable(tf.zeros([1000, 4]))
-    b = tf.Variable(tf.zeros([4]))
-
-    logit_y = tf.add(tf.matmul(X, W), b)
-    softmax_y = tf.nn.softmax(logit_y)
-    cross_entropy = tf.reduce_mean(-tf.reduce_sum(Y * tf.log(softmax_y), reduction_indices=[1]))
-    optimizer = tf.train.GradientDescentOptimizer(learning_rate)
-    train_step = optimizer.minimize(cross_entropy)
-
-    init = tf.global_variables_initializer()
-    sess = tf.Session()
-    sess.run(init)
-
-    os.chdir("../data/txt/5.refined_rate")
-    f_data = open("train_set_data.txt", 'r', encoding='utf-8')
-    f_label = open("train_set_label.txt", "r", encoding='utf-8')
-
-    data_lines = f_data.read().split()
-    f_data.close()
-
-    label_lines = f_label.read().split()
-    f_label.close()
-
-    train_data = np.array(data_lines, np.float)
-    train_data = train_data.reshape(-1, 1000)
-
-    train_label = np.array(label_lines, np.int)
-    train_label = train_label.reshape(-1, 4)
-
-    s = np.arange(train_data.shape[0])
-    np.random.shuffle(s)
-
-    train_data = train_data[s]
-    train_label = train_label[s]
-    print(train_data.shape)
-    # print(train_data[:5])
-    print(train_label.shape)
-    # print(train_label[:5])
+    train_data, train_label, test_data, test_label = data2numpy.load_data()
 
     n = train_data.shape[0]
     n2 = train_data.shape[1]
@@ -60,15 +57,22 @@ def DNN():
     model.add(tf.keras.layers.Dense(n2, input_shape=(n2,), activation='relu'))
     model.add(tf.keras.layers.Dense(n2, input_shape=(n2,), activation='relu'))
     model.add(tf.keras.layers.Dense(n2, input_shape=(n2,), activation='relu'))
-    # model.add(tf.keras.layers.Dense(n, input_shape=(n,), activation='relu'))
-    # model.add(tf.keras.layers.Dense(n, input_shape=(n,), activation='relu'))
-    # model.add(tf.keras.layers.Dense(n, input_shape=(n,), activation='relu'))
-    # model.add(tf.keras.layers.Dense(n, input_shape=(n,), activation='relu'))
-    # model.add(tf.keras.layers.Dense(n, input_shape=(n,), activation='relu'))
     model.add(tf.keras.layers.Dense(4, activation='sigmoid'))
     model.compile(loss='mse', optimizer='Adam', metrics=['accuracy'])
 
-    hist = model.fit(train_data, train_label, validation_data=(train_data, train_label), epochs=1)
+    # for i in range(epoch):
+    #     batch_xs = train_data[i:i+batch_size, :]
+    #     batch_ys = train_label[i:i+batch_size, :]
+    hist = model.fit(train_data, train_label, validation_data=(test_data, test_label),
+                     epochs=1)
+
+    trainset_predict = model.predict(train_data)
+    testset_predict = model.predict(test_data)
+
+    print("훈련셋 정확도")
+    cal_predict(train_label, trainset_predict)
+    print("\n테스트셋 정확도")
+    cal_predict(test_label, testset_predict)
 
     plt.figure(figsize=(12, 8))
     plt.plot(hist.history['loss'])
