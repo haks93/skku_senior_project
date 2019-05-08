@@ -1,5 +1,6 @@
 import os
 import numpy as np
+import tensorflow as tf
 
 
 def load_data():
@@ -25,11 +26,6 @@ def load_data():
     train_data = train_data[s]
     train_label = train_label[s]
 
-    s = np.arange(train_data.shape[0])
-    np.random.shuffle(s)
-
-    train_data = train_data[s]
-    train_label = train_label[s]
     print(train_data.shape)
     # print(train_data[:5])
     print(train_label.shape)
@@ -49,6 +45,8 @@ def load_data():
 
     test_label = np.array(label_lines, np.int)
     test_label = test_label.reshape(-1, 4)
+
+    os.chdir("../../../src")
 
     return train_data, train_label, test_data, test_label
 
