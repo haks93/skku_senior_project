@@ -64,7 +64,7 @@ def DNN():
     #     batch_xs = train_data[i:i+batch_size, :]
     #     batch_ys = train_label[i:i+batch_size, :]
     hist = model.fit(train_data, train_label, validation_data=(test_data, test_label),
-                     epochs=3)
+                     epochs=2)
 
     trainset_predict = model.predict(train_data)
     testset_predict = model.predict(test_data)

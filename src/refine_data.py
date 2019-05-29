@@ -274,6 +274,7 @@ def save_refined_rate(rank, test_set_rate, multiple_unit):
 
 
 if __name__ == "__main__":
+
     rank = 1000
     test_set_rate = 0.2
     multiple_unit = 100

@@ -4,7 +4,7 @@ import numpy as np
 from data2numpy import *
 
 
-def linear_regression(learning_rate, batch_size, rank):
+def linear_regression(learning_rate, batch_size, rank, epoch):
 
     X = tf.placeholder(tf.float32, [None, rank])
     Y = tf.placeholder(tf.float32, [None, 4])
@@ -23,43 +23,22 @@ def linear_regression(learning_rate, batch_size, rank):
     sess.run(init)
 
     train_data, train_label, test_data, test_label = load_data()
-    '''
-    idx_1 = idx_2 = idx_3 = 0
-    for row in range(train_label.shape[0]):
-        if (train_label[row] == [0, 1, 0, 0]).all() and idx_1 == 0:
-            idx_1 = row
-        elif (train_label[row] == [0, 0, 1, 0]).all() and idx_2 == 0:
-            idx_2 = row
-        elif (train_label[row] == [0, 0, 0, 1]).all() and idx_3 == 0:
-            idx_3 = row
-
-    print("## The Number of Train Set ##")
-    
-    print("Total:      ", train_label.shape[0])
-    print("English:    ", idx_1)
-    print("Korean:     ", idx_2 - idx_1)
-    print("Mathematics:", idx_3 - idx_2)
-    print("Science:    ", train_label.shape[0] - idx_3, "\n")
-    
-    print(train_label.shape[0])
-    print(idx_1)
-    print(idx_2 - idx_1)
-    print(idx_3 - idx_2)
-    print(train_label.shape[0] - idx_3, "\n")
-
-    print(train_data.shape)
-    print(train_data[:5])
-    print(train_label.shape)
-    print(train_label[:5])
-    '''
 
     batch_num = int(train_data.shape[0]/batch_size)
 
-    for i in range(batch_num):
-        batch_xs = train_data[i:i+batch_size, :]
-        batch_ys = train_label[i:i+batch_size, :]
+    for j in range(epoch):
+        print(j, "th epoch")
+        for i in range(batch_num):
+            batch_xs = train_data[i:i + batch_size, :]
+            batch_ys = train_label[i:i + batch_size, :]
 
-        sess.run(train_step, feed_dict={X: batch_xs, Y: batch_ys})
+            sess.run(train_step, feed_dict={X: batch_xs, Y: batch_ys})
+
+        s = np.arange(train_data.shape[0])
+        np.random.shuffle(s)
+
+        train_data = train_data[s]
+        train_label = train_label[s]
 
     # test_set 과목별 분류하여 각 과목 정확도를 확인.
     idx_1 = idx_2 = idx_3 = 0
@@ -106,13 +85,14 @@ def linear_regression(learning_rate, batch_size, rank):
 if __name__ == "__main__":
 
     learning_rate = 0.01
-    batch_size = 10
+    batch_size = 100
     rank = 1000
+    epoch = 1
 
     print("## Learning Rate:", learning_rate)
     print("## Batch Size:   ", batch_size)
     print("## Rank:   ", rank, "\n")
     for i in range(10):
         print("----------", i, "th test ----------")
-        linear_regression(learning_rate, batch_size, rank)
+        linear_regression(learning_rate, batch_size, rank, epoch)
 
