@@ -37,8 +37,8 @@ def cal_predict(label, predict):
 
     print("국어 정확도: ", korean_acc, "/", korean_num, "=", korean_acc / korean_num)
     print("수학 정확도: ", math_acc, "/", math_num, "=", math_acc / math_num)
-    print("영어 정확도: ", eng_acc, "/", eng_num, "=",eng_acc / eng_num)
-    print("과학 정확도: ", sci_acc, "/", sci_num, "=",sci_acc / sci_num)
+    print("영어 정확도: ", eng_acc, "/", eng_num, "=", eng_acc / eng_num)
+    print("과학 정확도: ", sci_acc, "/", sci_num, "=", sci_acc / sci_num)
     print("-------------------------------")
 
 
@@ -51,7 +51,7 @@ def DNN():
     n2 = train_data.shape[1]
 
     model = tf.keras.models.Sequential()
-    model.add(tf.keras.layers.Dense(n, input_shape=(n2,), activation='relu'))
+    model.add(tf.keras.layers.Dense(n2, input_shape=(n2,), activation='relu'))
     model.add(tf.keras.layers.Dense(n2, input_shape=(n2,), activation='relu'))
     model.add(tf.keras.layers.Dense(n2, input_shape=(n2,), activation='relu'))
     model.add(tf.keras.layers.Dense(n2, input_shape=(n2,), activation='relu'))
@@ -64,7 +64,7 @@ def DNN():
     #     batch_xs = train_data[i:i+batch_size, :]
     #     batch_ys = train_label[i:i+batch_size, :]
     hist = model.fit(train_data, train_label, validation_data=(test_data, test_label),
-                     epochs=1)
+                     epochs=3)
 
     trainset_predict = model.predict(train_data)
     testset_predict = model.predict(test_data)
@@ -82,6 +82,7 @@ def DNN():
     plt.legend(['loss', 'val_loss', 'acc', 'val_acc'])
     plt.show()
 
+    return model
 
 if __name__ == "__main__":
     DNN()
